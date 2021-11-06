@@ -1,5 +1,5 @@
 # comments_remover
-###Plugin for browser for remove comments from news page on site vk.com
-###Плагин для браузера который удаляет комментарии в постах со страницы новостей на сайте vk.com
+### Plugin for browser for remove comments from news page on site vk.com
+### Плагин для браузера который удаляет комментарии в постах со страницы новостей на сайте vk.com
 
 Вы все еще сможете смотреть и писать комментарии нажав на пост, но при обычном просмотре ленты комментариев не будет
