@@ -1,0 +1,17 @@
+{
+  "name": "comments_remover",
+  "version": "0.0.1",
+  "description": "Plugin for chrome for remove comments from news page on site vk.com",
+  "main": "src/index.js",
+  "module": "src/index.js",
+  "author": "Dmitry Tsybizov <DTs97@yandex.ru>",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/97Dmitry/comments_remover.git"
+  },
+  "bugs": {
+    "url": "https://github.com/97Dmitry/comments_remover/issues"
+  },
+  "homepage": "https://github.com/97Dmitry/comments_remover#readme"
+}

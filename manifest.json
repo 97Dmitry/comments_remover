@@ -1,0 +1,16 @@
+{
+  "manifest_version": 2,
+  "name": "comments_remover",
+  "version": "0.0.1",
+  "description": "Plugin for chrome for remove comments from news page on site vk.com",
+  "icons": {
+    "128": "./src/assets/img/128.png",
+    "16": "./src/assets/img/16.png"
+  },
+  "content_scripts": [
+    {
+      "matches": [ "https://vk.com/feed/*" ],
+      "js": [ "./src/index.js" ]
+    }
+  ]
+}
